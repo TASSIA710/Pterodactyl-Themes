@@ -1,0 +1,5 @@
+{
+    "name": "Tassilo",
+    "extends": "pterodactyl",
+    "asset-path": "themes\/Tassilo"
+}
